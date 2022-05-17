@@ -4,12 +4,11 @@
 <p align="center">
     <a href="https://cuestiondigital.com"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="auto" ></a>
 </p>
+ <p align="center"> 
+   <img src="https://media.giphy.com/media/KYhkX4wD2wTKcenRRE/giphy.gif" width="200px">
+  </p>
+<h1 align="center">Hi, I'm Karina Meza</h1>
 
-
-
-  <h1 align="center"> 
-   <img src="https://media.giphy.com/media/5L9CqjPdXj0hG/giphy.gif" width="150px">&nbsp; I'm Karina Meza
-  </h1>
   <p></p>
 <p align="center">A passionate student frontend developer from Argentina</p>
       
@@ -33,7 +32,7 @@
 <p></p>
 <h3
 align=" left">   
-<img src="https://media.giphy.com/media/5iL4e9HgeCDHa/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>Most Used Languages </b></i><br>
+<img src="https://media.giphy.com/media/5iL4e9HgeCDHa/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp; Most Used Languages 
                                                                                                  <p></p>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=karinasolmeza&show_icons=true&layout=compact&theme=merko" alt="Most Used Languages">
