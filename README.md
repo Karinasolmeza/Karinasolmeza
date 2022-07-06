@@ -12,9 +12,9 @@
   <p></p>
 <p align="center">A passionate student frontend developer from Argentina</p>
       
- <img src="https://media.giphy.com/media/O0HLp5POTssoM/giphy.gif" width="30px">&nbsp; I’m currently working on [Cuestión Digital](https://cuestiondigital.com/)
+ <img src="https://media.giphy.com/media/O0HLp5POTssoM/giphy.gif" width="10%">&nbsp; I’m currently working on [Cuestión Digital](https://cuestiondigital.com/)
 
-<img src="https://media.giphy.com/media/28NHo0bbyWzjG/giphy.gif" width="30px">&nbsp; All of my projects are available at [https://portfolio-karinameza.web.app/](https://portfolio-karinameza.web.app/)
+<img src="https://media.giphy.com/media/28NHo0bbyWzjG/giphy.gif" width ="10%">&nbsp; All of my projects are available at [https://portfolio-karinameza.web.app/](https://portfolio-karinameza.web.app/)
 
 
 <p></p>
@@ -32,14 +32,14 @@
 <p></p>
 <h3
 align=" left">   
-<img src="https://media.giphy.com/media/5iL4e9HgeCDHa/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp; Most Used Languages 
+<img src="https://media.giphy.com/media/5iL4e9HgeCDHa/giphy.gif" width="10%" alt="GitHub-Status"/>&nbsp; Most Used Languages 
                                                                                                  <p></p>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=karinasolmeza&show_icons=true&layout=compact&theme=merko" alt="Most Used Languages">
 </h3>
 
 <h3 align="left">
-<img align="left" src="https://media.giphy.com/media/jTntzRqcbG6RO/giphy.gif" width="30px">&nbsp; Connect with me
+<img align="left" src="https://media.giphy.com/media/jTntzRqcbG6RO/giphy.gif" width="10%">&nbsp; Connect with me
 </h3>
 <p></p>
 <p></p>    
